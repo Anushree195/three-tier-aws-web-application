@@ -2,7 +2,6 @@
 
 A hands-on AWS infrastructure project demonstrating a three-tier architecture with a public web entry point, a private backend tier, and a private MySQL database.
 
-> **Project scope:** This repository documents the infrastructure that was built and tested. The web and backend EC2 instances used Apache to demonstrate the HTTP routing path; a full business-logic application and a live MySQL query test were not implemented. See [Validation and limitations](#validation-and-limitations).
 
 ## Architecture
 
